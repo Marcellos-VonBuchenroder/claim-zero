@@ -45,7 +45,7 @@ function App() {
 
       {/* Supporting value statement. */}
       <p className="tagline">
-        Nelson Mandela University | 14-17 September 2026 | Online 
+        Nelson Mandela University | 14-17 September 2026 | Marcellos Von Buchenroder 
       </p>
 
     </div>
